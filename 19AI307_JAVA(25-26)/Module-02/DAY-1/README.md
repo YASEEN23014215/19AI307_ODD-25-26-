@@ -1,6 +1,5 @@
 # Ex.No:2(A) CLASS AND OBJECT
-# Name: YASEEN F
-# Reg: 212223220126
+
 
 ## QUESTION:
 Define a class Teacher with attributes: name (String), subject (String), and experience (int, years). 
@@ -25,8 +24,8 @@ To define a Java class Teacher with attributes name, subject, and experience.
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: K ABHINESWAR REDDY
-RegisterNumber: 212223040084
+Developed by: Yaseen F
+RegisterNumber: 212223220126
 */
 ```
 
